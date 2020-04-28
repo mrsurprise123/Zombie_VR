@@ -5,9 +5,10 @@ Note:This repo only has scripts I have written without 3Dobjects. If you wanna w
 yangjin0817@163.com
 
 Introduction:
+
 In the future, human society crashed because of zombies. Player act a soldier from marine to eliminate to zombies and protect our civilization. Thus, this is an FPS game, player will have fun by shooting and kill zombies. Players are also allowed to use some special skills, so that see a lot of effects in an VR environment. In order to use those special skills, I have made a feature to recognize player’s hand gesture. When player wave their hand like the gesture they have recorded in the game, they can use special skills to kill zombies. What’s more, players can use some weapons. I have made two weapons at the version, that is a Grenade and a Pistol. Player can shoot the zombie by the pistol or throw a grenade to kill couples of zombies. 
 
-VR Application Design
+VR Application Design:
 1.	Animation
 All the objects that can interact with players should have animations. For example, when we press the grab button, the hand of the player should have an animation of “Grab”. Those animations can make the game more real and fun. And I have written a lot of C# scripts to controller the animation. For example, if the zombie was attacked by the player, the code controls the animator of the zombie to play the “Hit” animation.
 2.	  Gesture Recognition 
@@ -52,7 +53,8 @@ Six zombies prefabs
 Pistol and Grenade
 (5)	Watch and two hands
 
-User experience
+User experience:
+
 The main work of this project focuses on the animation of different objects and how to intact with them. 
 The hands have an animator to control the animations of hands. When Press the grab button, it will play the grab animation. When hands hold a pistol, it will paly the “holdPistol” animation.  
 The Zombies also have an animator. If they are spawned on the map, they will randomly play walk or run animation to move. When they are hit by the pistol bullets, they will play hit animation.
