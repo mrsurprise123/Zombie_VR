@@ -1,7 +1,7 @@
 # Zombie_VR
 A Zombie_VR game made by Unity3D
 
-You need to have a HTC_Vive and Steam to play this game
+You need to have a HTC_Vive and Steam VR to play this game
 
 Note:This repo only has scripts I have written without 3Dobjects. If you wanna whole projectm please connect me with:
 yangjin0817@163.com
