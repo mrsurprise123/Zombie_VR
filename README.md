@@ -64,12 +64,13 @@ At the beginning, player is standing in a room and in front of a table. There ar
  	In the game scene, player should firstly go the table and grab the pistol and belt. Then make the belt collide with player’s body, the belt will disappear which means player wear it. After this, player can see a UI panel show the number of bullets and grenades. Also, the watch on the left hand shows the HP of the player. Then when move forward, zombies will appear, player can use pistol to shoot. Or click the touch pad of the controllers, a circular panel on the watch will come out. When press the grenade button, player will have a grenade and can throw it to hurt zombies. When press the controller button, player can wave their hand like the gesture they have recorded to call the skills to kill zombies.
 
 
-Improvement
-(1)	More weapons
+Improvement:
+
+(1)	More weapons:
 Now the weapons only have a pistol and grenade. Obviously it is not enough, more weapons can be added, like machine guns, RPG and so on.
-(2)	More Zombies
+(2)	More Zombies:
 This version can only generate two waves of zombies. But the map is very huge. So can put more zombies on the map.
-(3)	Coin collecting
+(3)	Coin collecting:
 After killing one zombie, player will get some coins to buy new weapons or upgrade their skills and weapons.
 (4)	Obstacle putting:
 Player can move around and put some obstacle and traps on the ground to stop zombies.
