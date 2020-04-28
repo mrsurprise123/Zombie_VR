@@ -1,0 +1,22 @@
+{
+    "gestures": [
+        {
+            "name": "Gesture 1",
+            "hand": 1,
+            "isSynchronous": false,
+            "exampleCount": 0
+        },
+        {
+            "name": "Gesture 2",
+            "hand": 1,
+            "isSynchronous": false,
+            "exampleCount": 0
+        },
+        {
+            "name": "Gesture 3",
+            "hand": 1,
+            "isSynchronous": false,
+            "exampleCount": 0
+        }
+    ]
+}
